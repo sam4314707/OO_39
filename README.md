@@ -27,4 +27,4 @@
 
 ![Ricardo](Ricardo.jpg "Ricardo")
 
-[![Ricardo.gif](Ricardo.jpg)](https://www.youtube.com/watch?v=aW0DRWhdZyY")
+[![Ricardo](Ricardo.gif)](https://www.youtube.com/watch?v=aW0DRWhdZyY")
