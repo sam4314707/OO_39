@@ -7,4 +7,20 @@
 * 0624077 謝以諾
 * 0624039 周彥澄
 
-Homework
+###### `My First Assignment`
+
+```
+* `0624075 莫湘維`
+* 0624077 謝以諾
+* 0624039 周彥澄
+```
+
+[高科大](https://nkust.edu.tw)
+
+<https://nkust.edu.tw>
+
+| First | Second | Third |
+|:------|:-----: |------:|
+|:poop:|:poop:|:poop:|
+:poop:
+:poop:
