@@ -24,3 +24,5 @@
 |:poop:|:poop:|:poop:|
 >>:poop:
 >>>:poop:
+
+![Ricardo](Ricardo.jpg "Ricardo")
