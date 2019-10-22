@@ -25,10 +25,6 @@
 >>:poop:
 >>>:poop:
 
-![Ricardo](Ricardo.jpg "Ricardo")
-
-[![Ricardo](Ricardo.gif)](https://www.youtube.com/watch?v=aW0DRWhdZyY")
-
 1.	專題題目: 房屋虛擬機
 
 2.	文字敘述專題需求 
